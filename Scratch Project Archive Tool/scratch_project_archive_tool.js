@@ -53,7 +53,7 @@ It will be slow (As to not spam Scratch!), but much faster and less tedious than
 - Add a cancel method
 - Make thumbnail/metadata downloading merged/faster
 - Toggles/Options
-- Change file metadata to match json metadata/creation/modify date
+- Change file/folder metadata to match json metadata/creation/modify date
 - Sort into Shared/Unshared/Trash folders
 - Scrape comments
 - Log errors/missed ones/stuff at the end
