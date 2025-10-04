@@ -26,8 +26,9 @@ Credit: https://github.com/ScratchAddons/ScratchAddons/blob/master/addons/search
 === HOW TO USE === 
 
 Go to the my stuff page on scratch while signed in.
-Paste this entire script.
-Wait...
+Paste this entire script (Yes! The whole thing!) into your browser console.
+Press enter.
+Wait... (it will take a while! It took almost ~5 hours for me with ~3800 projects.)
 
 */
 
