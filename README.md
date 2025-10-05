@@ -8,5 +8,6 @@ A tool to archive/zip all your Scratch projects at once, with metadata and thumb
 
 ## Planned Tools
 - Scratch Studio Archive Tool
+- Scratch Project Single Archive Tool
 
 A tool to archive/zip all your Scratch studios at once, with metadata, comments, contained project ids, and thumbnails.

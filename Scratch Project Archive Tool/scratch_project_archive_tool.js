@@ -30,6 +30,10 @@ Paste this entire script (Yes! The whole thing!) into your browser console.
 Press enter.
 Wait... (it will take a while! It took almost ~5 hours for me with ~3800 projects.)
 
+You might see some errors, if the tool continues to run it's likely not a problem!
+For instance, if you have nothing in your trash, it will show an error.
+And it will show 3 errors for reaching the bottom of each page.
+
 */
 
 /* 
